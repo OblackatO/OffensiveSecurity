@@ -1,4 +1,4 @@
-# Offesnive-security
+# Offensive Security
 ### (Silence && Stealth && Aggressiveness) are 3 hacker's constants.
 
 This repository contains scripts in the offensive security field written when I had a intermidiate level in computer security 
@@ -20,9 +20,8 @@ It is illegal to use it for malicious purposes, such as cyber attacks.
 
 *According to github legal rules, such repositories are allowed, refer to the community guidelines for more details :*
     
-    ``` 
-    Being part of a community includes not taking advantage of other members of the community. We do not allow anyone to use our platform for exploit delivery, such as using GitHub as a means to deliver malicious executables, or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers. Note, however, that we do not prohibit the posting of source code which could be used to develop malware or exploits, as the publication and distribution of such source code has educational value and provides a net benefit to the security community.
-     ```
+    ```Being part of a community includes not taking advantage of other members of the community. We do not allow anyone to use our platform for exploit delivery, such as using GitHub as a means to deliver malicious executables, or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers. Note, however, that we do not prohibit the posting of source code which could be used to develop malware or exploits, as the publication and distribution of such source code has educational value and provides a net benefit to the security community.```
+
 Thus, this repository is meant to share my interest in offensive security, and some related areas(such as counter intelligence), but most
 importantly it has an educational value and provides a benefit to the security community.
 
