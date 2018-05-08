@@ -26,7 +26,7 @@ allow anyone to use our platform for exploit delivery, such as using GitHub as a
 malicious executables, or  as attack infrastructure, for example by organizing denial of service attacks     
 or managing command and control servers.   Note, however, that we do not prohibit the posting of source     
 code which could be used to develop malware or exploits, as the  publication and distribution of such     
-source code has educational value and provides a net benefit to the security   community."    
+source code has educational value and provides a net benefit to the security community."    
 ```  
  
 Thus, this repository is meant to share my interest in offensive security, and some related areas(such as counter intelligence), but most importantly it has an educational value and provides a benefit to the security community.
