@@ -6,28 +6,28 @@ I would have written the great majority of them differently if it was today.
 Each file has usually a description of what it does, others have names that are self explanatory.
 
 Some code was written in python2.7, but the majority of it was written in python3 =<
-This repository was not updated for a while, nor it will be soon, as I'm currently working more often on the defensive side. 
+This repository was not updated for a while, nor it will be soon, as I'm currently working more often on the defensive side.  
 
 
-*“We do not merely destroy our enemies; we change them.”* 
-    *― George Orwell, 1984* 
+*“We do not merely destroy our enemies; we change them.”*  
+   *― George Orwell, 1984* 
     
 
 ## **Disclaimer**
-##########################################################################################
+################################################################################
 I am not, nor will I ever be responsible for what you decide to do with the code found on the repository. 
 It is illegal to use it for malicious purposes, such as cyber attacks. 
 
 *According to github legal rules, such repositories are allowed, refer to the community guidelines for more details :*
-    --------------------------------------------------------------------------------------------------------------------------
+    ----------------------------------------------------------------------------------------------------------
     *"Being part of a community includes not taking advantage of other members of the community. We do not  
     allow anyone to use our platform for exploit delivery, such as using GitHub as a means to deliver    malicious executables, or as attack infrastructure, for example by organizing denial of service attacks   or managing command and control servers. Note, however, that we do not prohibit the posting of source   code which could be used to develop malware or exploits, as the publication and distribution of such   source code has educational value and provides a net benefit to the security community."*
-    --------------------------------------------------------------------------------------------------------------------------
+    -----------------------------------------------------------------------------------------------------------
 
 Thus, this repository is meant to share my interest in offensive security, and some related areas(such as counter intelligence), but most importantly it has an educational value and provides a benefit to the security community.
 
 **NOTE:** : For your own good do not do black hat activities. Because if you do, remember that there are people exactly like you that will try to catch you, till their very, very last breath if needed. Be smart, have ethics, and do remember that Big Brother is watching you.
-######################################## **Disclaimer END**##################################
+################################## **Disclaimer END**#############################
 
 If you have any question send me an email using my PGP key:
 (PGP Finger Print) || (PGP email): 
