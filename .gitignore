@@ -1,0 +1,20 @@
+linguist-vendored
+*.o linguist-vendored=true
+
+linguist-vendored
+*.make linguist-vendored=true
+
+linguist-vendored
+*.h linguist-vendored=true
+
+linguist-vendored
+*.java linguist-vendored=true
+
+linguist-vendored
+*.sh linguist-vendored=true
+
+linguist-vendored
+*.c linguist-vendored=true
+
+linguist-vendored
+*.swift linguist-vendored=true

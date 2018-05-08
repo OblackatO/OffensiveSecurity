@@ -1,0 +1,17 @@
+socket useful functions : 
+
+1.gethostbyname_ex(host name) : return tuple with hostname, canonical_name, list of available ip addresses.
+
+
+2.You know that our computer has many interfaces. If you want to know the IP
+address of all the interfaces, use the extended interface:.
+>>> socket.gethostbyname_ex(socket.gethostname())
+
+3.socket.getservbyname(servicename[, protocol_name]) : Converts
+any protocol name to the corresponding port number
+
+4.socket.getservbyport(port[, protocol_name]) : This converts an
+Internet port number to the corresponding service name.
+
+5.Like socket.connect(), but --> socket.connect_ex(address) : This method returns an error 
+indicator. If successful. it returns 0. 

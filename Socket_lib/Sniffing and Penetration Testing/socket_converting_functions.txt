@@ -1,0 +1,12 @@
+
+socket.ntohl(x): This is the network to host long. It converts a 32-bit positive
+integer from the network to host the byte order.
+
+socket.ntohs(x): This is the network to host short. It converts a 16-bit positive
+integer from the network to host the byte order.
+
+•	 socket.htonl(x): This is the host to network long. It converts a 32-bit positive
+integer from the host to the network byte order.
+
+•	 socket.htons(x): This is the host to network short. It converts a 16-bit positive
+integer from the host to the network byte order.

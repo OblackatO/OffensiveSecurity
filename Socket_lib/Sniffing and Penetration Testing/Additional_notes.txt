@@ -1,0 +1,7 @@
+1.The ACK,FIN and SYN scan were already covered with scapy and they are in the scapy folder. 
+A few things were rectifed, still I was not able to get the FIN and ACK scans to work. 
+
+2.For the network dissociation attack ones only needs to use a fake source MAC address, for the rest
+it is exactly the same as ARP poisining
+
+3.See ping of death note. 
