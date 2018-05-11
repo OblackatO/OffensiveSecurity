@@ -9,12 +9,11 @@ Some code was written in python2.7, but the majority of it was written in python
 This repository was not updated for a while, nor it will be soon, as I'm currently working more often on the defensive side.  
 
 
-*“We do not merely destroy our enemies; we change them.”*  
+*“We do not merely destroy our enemies; we change them.”*    
   *― George Orwell, 1984* 
     
 
-## **Disclaimer**
-##################  
+## **Disclaimer**   
 I am not, nor will I ever be responsible for what you decide to do with the code found on the repository. 
 It is illegal to use it for malicious purposes, such as cyber attacks. 
 
