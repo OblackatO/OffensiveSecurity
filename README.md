@@ -32,9 +32,9 @@ source code has educational value and provides a net benefit to the security com
 Thus, this repository is meant to share my interest in offensive security, and some related areas(such as counter intelligence), but most importantly it has an educational value and provides a benefit to the security community.
 
 **NOTE:** : For your own good do not do black hat activities. Because if you do, remember that there are people exactly like you that will try to catch you, till their very, very last breath if needed. Be smart, have ethics, and do remember that Big Brother is watching you.  
-### **Disclaimer END**
 
 
+## Remarks
 If you have any question send me an email using my PGP key:  
 (PGP Finger Print) || (PGP email):  
 (718A 406A 8EFA DAA2 DB1A  A7FD 3EBC B11A ED73 76E8) || (pegom0896@gmail.com)
