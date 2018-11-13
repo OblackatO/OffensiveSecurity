@@ -6,12 +6,7 @@ I would have written the great majority of them differently if it was today.
 Each file has usually a description of what it does, others have names that are self explanatory.
 
 Some code was written in python2.7, but the majority of it was written in python3 =<
-This repository was not updated for a while, nor it will be soon, as I'm currently working more often on the defensive side.  
-
-
-*“We do not merely destroy our enemies; we change them.”*    
-  *― George Orwell, 1984* 
-    
+This repository was not updated for a while, nor it will be soon, as I'm currently working more often on the defensive side.    
 
 ## **Disclaimer**   
 I am not, nor will I ever be responsible for what you decide to do with the code found on the repository. 
@@ -35,11 +30,10 @@ Thus, this repository is meant to share my interest in offensive security, and s
 
 ## Remarks
 If you have any question send me an email using my PGP key:  
-(PGP Finger Print) || (PGP email):  
-(718A 406A 8EFA DAA2 DB1A  A7FD 3EBC B11A ED73 76E8) || (pegom0896@gmail.com)
+(PGP Finger Print):    
+(EC56C26526290AE9402216C64EF2D094664FA2B8)  
 
-### *(Silence && Stealth && Aggressiveness) are 3 hacker's constants.*  
- ![alt text](https://github.com/pegom96/OffensiveSecurity/blob/master/Pics/816dbe289357591bef82819613550c18.jpg)
+All emails that are not encrypted will be ignored, and deleted afterwards.  
 
 
 
