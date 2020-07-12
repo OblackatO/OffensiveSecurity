@@ -5,8 +5,7 @@ This repository contains scripts related to offensive security field written whe
 I would have written the great majority of them differently if it was today.
 Each file has usually a description of what it does, others have names that are self explanatory.
 
-Some code was written in python2.7, but the majority of it was written in python3 =<
-This repository was not updated for a while, nor it will be soon, as I'm currently working more often on the defensive side.    
+Some code was written in python2.7, but the majority of it was written in python3.  
 
 ## **Disclaimer**   
 I am not, nor will I ever be responsible for what you decide to do with the code found on the repository. 
@@ -25,13 +24,10 @@ source code has educational value and provides a net benefit to the security com
  
 Thus, this repository is meant to share my interest in offensive security, and some related areas(such as counter intelligence), but most importantly it has an educational value and provides a benefit to the security community.
 
-**NOTE:** : For your own good do not do black hat activities. Because if you do, remember that there are people exactly like you that will try to catch you, till their very, very last breath if needed. Be smart, have ethics, and do remember that Big Brother is watching you.  
-
-
 ## Remarks
 If you have any question send me an email using my PGP key:  
 (PGP Finger Print):    
-(EC56C26526290AE9402216C64EF2D094664FA2B8)  
+(EC56C26526290AE9402216C64EF2D094664FA2B8)   
 
 All emails that are not encrypted will be ignored, and deleted afterwards.  
 
