@@ -26,10 +26,8 @@ Thus, this repository is meant to share my interest in offensive security, and s
 
 ## Remarks
 If you have any question send me an email using my PGP key:  
-(PGP Finger Print):    
-(EC56C26526290AE9402216C64EF2D094664FA2B8)   
-
-All emails that are not encrypted will be ignored, and deleted afterwards.  
+(PGP Finger Print || email):    
+(D920 B62F 481F EA0F 6AEE  8418 A9D8 8E81 1FBC 5420 || pegom0896@zoho.eu)   
 
 
 
